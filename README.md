@@ -14,7 +14,8 @@ ftp.exe  c:  2121      #此时你的c盘已经被共享
 
 
 # 用法
-客户端从浏览器访问：  http://x.x.x.x:2121/      #x.x.x.x 代表启动ftp的服务器ip
+客户端从浏览器访问：  http://x.x.x.x:2121/     
+x.x.x.x 代表启动ftp的服务器ip
 
 
 
@@ -23,8 +24,9 @@ ftp.exe  c:  2121      #此时你的c盘已经被共享
 golang 1.8
 
 ## 作者介绍
-yihongfei  QQ:413999317   MAIL:yihf@liepin.com
+yihongfei  
 
+QQ:413999317   
 CCIE 38649
 
 
