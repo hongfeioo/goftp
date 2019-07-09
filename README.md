@@ -1,5 +1,5 @@
 # goftp
-轻松共享你的目录
+轻松共享你的目录 ,  类似于： python -m SimpleHTTPServer 80
 
 
 # 启动方法
